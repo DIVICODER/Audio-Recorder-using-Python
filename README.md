@@ -8,11 +8,7 @@ To run this project, you need to install the following libraries:
 - `sounddevice`
 - `scipy`
 - `wavio`
-----------------------------------------------
 
-You can install them using pip:
-```bash
-pip install sounddevice scipy wavio
 
 -------------------------------------------
 Code Explanation
