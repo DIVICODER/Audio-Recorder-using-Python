@@ -20,8 +20,10 @@ Saving Audio: The recorded audio is saved into two WAV files using scipy.io.wavf
 
 -----------------------------
 Output
+
+
 When you run the script, it will create two WAV files in the current directory:
 
-recording0.wav
-recording1.wav
+- `recording0.wav`
+- `recording1.wav`
 These files contain the recorded audio from your microphone for the specified duration.
